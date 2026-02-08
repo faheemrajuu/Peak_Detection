@@ -9,6 +9,8 @@ authors:
 year: 2026
 license: MIT
 repository-code: "https://github.com/faheemrajuu/Peak_Detection"
+doi: 10.5281/zenodo.18524445
+date first release: 02/08/2026
 keywords:
   - SAXS
   - WAXS
@@ -16,3 +18,4 @@ keywords:
   - peak detection
   - plotly
   - scipy
+acknowledgements: "Development of this software was supported by research funding from Prof. Mu-Ping Nieh’s lab (University of Connecticut)."
