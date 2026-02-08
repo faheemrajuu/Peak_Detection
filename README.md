@@ -87,5 +87,6 @@ If you use this code in academic work, please cite it as:
 
 Muhammad Faheem Hassan. "Peak Diagnostics for 1D SAXS/WAXS Data (peak_diag.py)". GitHub repository, 2026.
 
-
+## Acknowledgements / Funding
+Development of this software was supported by research funding from Prof. Mu-Ping Nieh’s lab (University of Connecticut).
 
